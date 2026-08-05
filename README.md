@@ -4,6 +4,10 @@ Luau script
 It originated from my roblox game *Unnamed Battle Game*
 https://www.roblox.com/games/131526004425694
 
+Folder Names Correspond to Container Locations in Roblox
+
+Just Place the Scripts Into Their Matching Folders
+
 ReplicatedStorage:
 
 - PlayerPickUp (RemoteFunction)
@@ -13,7 +17,7 @@ ReplicatedStorage:
 
 Item Structure Dependency:
 
-Item (Model)
+Item (Model) | Attribute: IsItem = true
 - Attributes (Folder)
   - Angle (Vector3Value)
   - Animation (StringValue) | Value is Animation Name
