@@ -26,4 +26,6 @@ Item (Model) | Attribute: IsItem = true
 
 StartGui/Inventory and StartGui/MobilePickUpButton Should be ScreenGui
 
+StartGui/Inventory/inventoryButtonScript and StartGui/MobilePickUpButton/ButtonScript Should not be Enabled Initial
+
 StarterPlayer/StarterCharacterScripts/Animation Should has Child Object of Animation
